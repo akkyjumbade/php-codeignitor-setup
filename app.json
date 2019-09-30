@@ -1,0 +1,61 @@
+{
+   "name": "Insiders CreativeWaveTech",
+   "version": "v1.0.0-beta",
+   "short_name": "CreativeWaveTech",
+   "description": "Insiders Panel for CreativeWaveTech",
+   "start_url": "./",
+   "scope": "./",
+   "display": "standalone",
+   "background_color": "#ffffff",
+   "theme_color": "#24009c",
+   "gcm_sender_id": "103953800507",
+   "contact": {
+      "phone": "+918433646482",
+      "email": "inquiry.creativewavetech@gmail.com"
+   },
+   "developer": {
+      "name": "Creative Wave tech",
+      "url": "https://www.creativewavetech.com"
+   },
+   "serviceworker": {
+      "src": "/sw.js"
+   },
+   "screenshots": [],
+   "icons": [
+      {
+         "src": "assets/images/icons/72x72.png",
+         "sizes": "72x72",
+         "type": "image/png"
+      },
+      {
+         "src": "assets/images/icons/96x96.png",
+         "sizes": "96x96",
+         "type": "image/png"
+      },
+      {
+         "src": "assets/images/icons/128x128.png",
+         "sizes": "128x128",
+         "type": "image/png"
+      },
+      {
+         "src": "assets/images/icons/144x144.png",
+         "sizes": "144x144",
+         "type": "image/png"
+      },
+      {
+         "src": "assets/images/icons/152x152.png",
+         "sizes": "152x152",
+         "type": "image/png"
+      },
+      {
+         "src": "assets/images/icons/192x192.png",
+         "sizes": "192x192",
+         "type": "image/png"
+      },
+      {
+         "src": "assets/images/icons/512x512.png",
+         "sizes": "512x512",
+         "type": "image/png"
+      }
+   ]
+}
