@@ -21,7 +21,6 @@
 	<div id="root" v-cloak>
       <?php $this->load->view($view) ?>
    </div>
-   <script src="/assets/scripts/app.js"></script>
-   <script type="module" src="/assets/scripts/custom.js"></script>
+   <script type="module" src="/assets/scripts/app.js"></script>
 </body>
 </html>
